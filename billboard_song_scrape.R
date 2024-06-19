@@ -31,12 +31,19 @@ music_rank <- tibble(
 # Print the first few rows of the tibble to verify
 print(music_rank)
 
-#MONGODB
+# MONGODB
 message('Input Data to MongoDB Atlas')
+
+# Debugging: Print environment variables
+cat("ATLAS_URL: ", Sys.getenv("ATLAS_URL"), "\n")
+cat("ATLAS_COLLECTION: ", Sys.getenv("ATLAS_COLLECTION"), "\n")
+cat("ATLAS_DB: ", Sys.getenv("ATLAS_DB"), "\n")
+
+# Establish MongoDB connection
 atlas_conn <- mongo(
-  collection = "ATLAS_COLLECTION",
-  db = "ATLAS_DB",
-  url = "ATLAS_URL"
+  collection = Sys.getenv("ATLAS_COLLECTION"),
+  db = Sys.getenv("ATLAS_DB"),
+  url = Sys.getenv("ATLAS_URL")
 )
 
 atlas_conn$insert(music_rank)

@@ -18,7 +18,7 @@ rows <- bill_100 %>% html_elements(".chart-results-list .o-chart-results-list-ro
 ranks <- rows %>% html_attr("data-detail-target") %>% as.numeric()
 titles <- rows %>% html_elements(".o-chart-results-list__item h3.c-title") %>% html_text(trim = TRUE)
 artists <- rows %>% html_elements(".c-label") %>% html_text(trim = TRUE)
-artists_clean <- artists[seq(2,length(artist_1),8)]
+artists_clean <- artists[seq(2,length(artists),8)]
 
 # Create a tibble with the extracted data
 music_rank <- tibble(

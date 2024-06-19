@@ -69,7 +69,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 Tools yang digunakan pada project ini antara lain RStudio, MongoDB dan Github.
 </p>
 
-## 🖱️ Dokumen
+## :code: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```mongodb
 {

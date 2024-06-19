@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="60%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/560px-Billboard_logo.svg.png">
+    <img width="60%" src="https://www.pngkey.com/png/detail/234-2341320_2017-billboard-music-awards-png-logo-billboard-latin.png">
 </p>
 
 <div align="center">

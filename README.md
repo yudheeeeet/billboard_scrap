@@ -3,6 +3,5 @@
 </p>
 
 <div align="center">
-    [![scrape_hashtag](https://github.com/yudheeeeet/billboard_scrap/actions/workflows/main.yml/badge.svg)]        
-    (https://github.com/yudheeeeet/billboard_scrap/actions/workflows/main.yml)
+[![scrape_hashtag](https://github.com/yudheeeeet/billboard_scrap/actions/workflows/main.yml/badge.svg)](https://github.com/yudheeeeet/billboard_scrap/actions/workflows/main.yml)
 </div>

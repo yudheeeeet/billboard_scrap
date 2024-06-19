@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="60%" src="https://akcdn.detik.net.id/visual/2024/05/06/drake-dan-kendrick-lamar_169.jpeg?w=650&q=90">
+    <img width="60%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/560px-Billboard_logo.svg.png">
 </p>
 
 <div align="center">
@@ -27,18 +27,17 @@
 
 </div>
 
-## :rnb: Tentang
+## 🎸 Tentang
 
-**Apa sih Airline Quality itu?**
+**Apa itu Billboard dan Trending Musik?**
 
 <p align="justify">
-Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh sebuah maskapai penerbangan kepada penumpangnya. 
-Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
+Billboard merupakan website yang memberikan informasi seputar musik yang sedang populer dan banyak didengar oleh pengguna diseluruh dunia. website ini mengupdate peringkat setiap harinya dan terdapat beberapa musik yang terus bertengger di papan atas namun ada pula musik yang seiring waktu terus menerus turun peringkat.
 </p>
 
 <p align="center">
-  <img width="220" height="150" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
-  <img width="220" height="150" src="https://cdn.idntimes.com/content-images/post/20231228/new-saphire-plaza-premium-lounge-d7af5142f916b19a9047a4b135b3730d.jpg">
+  <img width="220" height="150" src="https://edm.com/.image/ar_233:100%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:good%2Cw_3840/MTU1NzU3NzM5ODAzNDIwMTU2/billboard-music-awards.webp">
+  <img width="220" height="150" src="https://d.newsweek.com/en/full/462425/weeknd-billboard-music-awards.webp?w=737&f=d9d159123640848e87f5372c525ab78e">
   <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
 

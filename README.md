@@ -70,7 +70,7 @@ Tools yang digunakan pada project ini antara lain RStudio, MongoDB dan Github.
 </p>
 
 ## 📔 Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk billboard ranks:
 ```mongodb
 {
 "_id":{"$oid":"6672bd0c44a56f940f014fe1"},

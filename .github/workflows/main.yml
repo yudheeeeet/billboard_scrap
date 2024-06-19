@@ -1,12 +1,12 @@
-name: billboard_scrap
+name: billboard_scrape
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 8 * * *'
   workflow_dispatch:
     
 jobs:
-  billboard-scrape:
+  airline-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
@@ -23,5 +23,5 @@ jobs:
         install.packages("tidyverse", dependencies = TRUE)
         install.packages("mongolite")
       shell: Rscript {0} 
-    - name: Scrape Data Billboard 50 Song
+    - name: Scrape Billboard Top 5 Song
       run: Rscript billboard song scrape.R

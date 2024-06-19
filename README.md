@@ -40,7 +40,7 @@ Billboard merupakan website yang memberikan informasi seputar musik yang sedang 
   <img width="220" height="150" src="https://d.newsweek.com/en/full/462425/weeknd-billboard-music-awards.webp?w=737&f=d9d159123640848e87f5372c525ab78e">
 </p>
 
-## :writing_hand: Deskripsi Project
+## :pen: Deskripsi Project
 
 <p align="center" width="80%">
   <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">

@@ -13,7 +13,7 @@
 
 </p>
 
-[Tentang](#rap-tentang)
+[Tentang](#rnb-tentang)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
@@ -27,7 +27,7 @@
 
 </div>
 
-## :airplane: Tentang
+## :rnb: Tentang
 
 **Apa sih Airline Quality itu?**
 

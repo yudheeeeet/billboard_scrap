@@ -13,18 +13,6 @@
 
 </p>
 
-[Tentang](#rnb-tentang)
-•
-[Deskripsi Project](#writing_hand-deskripsi-project)
-•
-[Dokumen](#books-dokumen)
-•
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
-•
-[PPT](#computer-PPT)
-•
-[Pengembang](#panda_face-pengembang)
-
 </div>
 
 ## 🎸 Tentang

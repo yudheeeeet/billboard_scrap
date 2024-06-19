@@ -60,9 +60,9 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
  <p align="justify">
       
-+ **rank** meliputi kenyamanan kursi maskapai penerbangan, layanan staf kabin, hiburan dalam pesawat, katering di dalam pesawat, layanan bandara, dan harga tiket pesawat.
-+ **title** meliputi kenyamanan lounge, kebersihan, katering makanan, toilet, layanan staf, dll.
-+ **artist** meliputi ruang untuk kaki pada kursi, sandaran dan lebar kursi, kenyamanan, keempukan kursi, dll.
++ **rank** berisi rank musik tiap harinya dengan rentang 1 sampai 5.
++ **title** berisi judul musik yang ditampilkan dengan rentang 1 sampai 5.
++ **artist** berisi nama artis yang mengaransemen musik sesuai dengan rank (peringkat) dengan rentang 1 sampai 5.
 </p>
 
 <p align="justify">

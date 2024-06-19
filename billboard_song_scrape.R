@@ -34,9 +34,9 @@ print(music_rank)
 #MONGODB
 message('Input Data to MongoDB Atlas')
 atlas_conn <- mongo(
-  collection = "song",
-  db = "billboard",
-  url = "mongodb+srv://ydth2000rachmat:Ydth1999@cluster0.mxr9e6p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+  collection = "ATLAS_COLLECTION",
+  db = "ATLAS_DB",
+  url = "ATLAS_URL"
 )
 
 atlas_conn$insert(music_rank)

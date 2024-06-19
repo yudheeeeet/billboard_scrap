@@ -3,7 +3,7 @@
 </p>
 
 # Airline Quality Scraping
-[![scrape_hashtag](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml)
+[![scrape_hashtag](https://github.com/yudheeeeet/billboard_scrap/actions/workflows/main.yml/badge.svg)](https://github.com/yudheeeeet/billboard_scrap/actions/workflows/main.yml)
 
 <p align="center">
     

@@ -40,16 +40,16 @@ Billboard merupakan website yang memberikan informasi seputar musik yang sedang 
   <img width="220" height="150" src="https://d.newsweek.com/en/full/462425/weeknd-billboard-music-awards.webp?w=737&f=d9d159123640848e87f5372c525ab78e">
 </p>
 
-## :pen: Deskripsi Project
+## :pen: Deskripsi 
 
 <p align="center" width="80%">
-  <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+  <img width="700" height="400" src="https://s.yimg.com/ny/api/res/1.2/Pe85D2g2FEONaNUQua8SZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUwMjtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2023-09/9ec27c80-5327-11ee-b7fa-cf2c97668d65">
 </p>
 
 <div align="center">
 
 <p align="justify">
-Pada project kali ini, yaitu melakukan scraping pada website https://www.billboard.com/charts/hot-100/. Situs web ini dikenal dengan nama "Billboard" Ini adalah platform yang menyediakan ulasan dan peringkat mengenai musik yang sedang populer  di seluruh dunia. Billboard dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+Pada project kali ini, yaitu melakukan scraping pada website https://www.billboard.com/charts/hot-100/. Situs web ini dikenal dengan nama "Billboard" Ini adalah platform yang menyediakan ulasan dan peringkat mengenai musik yang sedang populer di seluruh dunia. Billboard dikenal karena memberikan informasi terperinci mengenai peringkat dan review musik terbaru dan terpopuler saat ini.
 </p>
 
 <p align="justify">

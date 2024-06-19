@@ -34,10 +34,10 @@ print(music_rank)
 # MONGODB
 message('Input Data to MongoDB Atlas')
 
-# Debugging: Print environment variables
-cat("ATLAS_URL: ", Sys.getenv("ATLAS_URL"), "\n")
-cat("ATLAS_COLLECTION: ", Sys.getenv("ATLAS_COLLECTION"), "\n")
-cat("ATLAS_DB: ", Sys.getenv("ATLAS_DB"), "\n")
+# # Debugging: Print environment variables
+# cat("ATLAS_URL: ", Sys.getenv("ATLAS_URL"), "\n")
+# cat("ATLAS_COLLECTION: ", Sys.getenv("ATLAS_COLLECTION"), "\n")
+# cat("ATLAS_DB: ", Sys.getenv("ATLAS_DB"), "\n")
 
 # Establish MongoDB connection
 atlas_conn <- mongo(

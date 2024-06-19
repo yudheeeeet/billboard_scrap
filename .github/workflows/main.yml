@@ -24,4 +24,4 @@ jobs:
         install.packages("mongolite")
       shell: Rscript {0} 
     - name: Scrape Billboard Top 5 Song
-      run: Rscript billboard song scrape.R
+      run: Rscript billboard_song_scrape.R

@@ -38,7 +38,6 @@ Billboard merupakan website yang memberikan informasi seputar musik yang sedang 
 <p align="center">
   <img width="220" height="150" src="https://edm.com/.image/ar_233:100%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:good%2Cw_3840/MTU1NzU3NzM5ODAzNDIwMTU2/billboard-music-awards.webp">
   <img width="220" height="150" src="https://d.newsweek.com/en/full/462425/weeknd-billboard-music-awards.webp?w=737&f=d9d159123640848e87f5372c525ab78e">
-  <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
 
 ## :writing_hand: Deskripsi Project
@@ -50,7 +49,7 @@ Billboard merupakan website yang memberikan informasi seputar musik yang sedang 
 <div align="center">
 
 <p align="justify">
-Pada project kali ini, yaitu melakukan scraping pada website https://www.airlinequality.com/. Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+Pada project kali ini, yaitu melakukan scraping pada website https://www.billboard.com/charts/hot-100/. Situs web ini dikenal dengan nama "Billboard" Ini adalah platform yang menyediakan ulasan dan peringkat mengenai musik yang sedang populer  di seluruh dunia. Billboard dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
 </p>
 
 <p align="justify">

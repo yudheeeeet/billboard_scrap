@@ -6,7 +6,7 @@ library(dplyr)
 
 message('Scraping Data')
 # Define the URL of the Billboard Hot 100 chart
-url <- "https://www.billboard.com/charts/hot-100/"
+url <- "https://www.billboard.com/charts/billboard-200/"
 
 # Read the HTML content from the URL
 bill_100 <- read_html(url)

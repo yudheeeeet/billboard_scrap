@@ -69,7 +69,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk billboard ranks:
 ```
 ## 📈 Data Scraping Analysis
 Berikut merupakan link RPubs data scraping analysis : 
-+ [RPubs Airline Data Scraping and Visualization](https://rpubs.com/yudheeettt/billboardscrap)
++ [RPubs Billboard Data Scraping and Visualization](https://rpubs.com/yudheeettt/billboardscrap)
 
 ## 📚 PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :

@@ -73,7 +73,7 @@ Berikut merupakan link RPubs data scraping analysis :
 
 ## 📚 PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
-+ [PPT Airline Data Scraping and Visualization]()
++ [PPT Billboard Data Scraping and Visualization](https://drive.google.com/file/d/1Nuip6qIPc227B5C50-FJ4G-yzXzDWAu1/view)
   
 ## 🧔 Pengembang
 + [Rachmat Bintang Yudhianto](https://github.com/yudheeeeet/) (G1501231030)
